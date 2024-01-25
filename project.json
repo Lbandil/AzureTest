@@ -50,6 +50,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "02cffa9c-e46b-4476-b3e5-ef2d13f207e7",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase1.xaml"
       }
     ],
     "saveToCloud": false
